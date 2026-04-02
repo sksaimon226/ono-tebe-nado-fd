@@ -18,9 +18,9 @@ height: 293px;
 display: flex;
 flex-direction: row;
 list-style: circle;
-gap: 13px;
 border: 0.5px;
-list-style-position: outside;
+gap: 32px;
+margin-left: 15px;
 }
 
 .header_menu_item_first {
