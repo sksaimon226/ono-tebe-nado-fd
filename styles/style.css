@@ -70,7 +70,7 @@ font-style: normal;
     position: relative;
     background-image: url(../images/cover.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-position: center;
     margin-bottom: 180px;
     padding: 165px 50px 50px;
 }
@@ -80,7 +80,7 @@ font-style: normal;
     
     position: absolute;
     inset: 0;
-    backdrop-filter: brightness(0.5);
+    backdrop-filter: brightness(0.4);
     z-index: 0;
 }
 
