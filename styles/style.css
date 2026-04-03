@@ -273,6 +273,7 @@
 
 .address-block__footer {
   justify-self: start;
+  padding-bottom: 82px;
 }
 
 .footer__menu {
